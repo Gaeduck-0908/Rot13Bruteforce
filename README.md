@@ -7,7 +7,7 @@ pip install Rot13Bruteforce
 ```
 # Key Features
 ```python
-rot13_bruteforce(str)
+rot13_bruteforce(str) : return dict{}
 print_rot13_results(str)
 ```
 # Example
