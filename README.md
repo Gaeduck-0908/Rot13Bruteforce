@@ -1,9 +1,9 @@
-# rot13-bruteforce
+# Rot13Bruteforce
 Python pip makes it easy to run rot13_bruteforce
-> PYPI : https://pypi.org/project/rot13_bruteforce/
+> PYPI : https://pypi.org/project/Rot13Bruteforce/
 # PiP install
 ```
-pip install rot13-bruteforce
+pip install Rot13Bruteforce
 ```
 # Key Features
 ```python
@@ -12,9 +12,9 @@ print_rot13_results(str)
 ```
 # Example
 ```python
-import rot13_bruteforce
+import Rot13Bruteforce
 
-result = rot13_bruteforce.rot13_bruteforce('abcd')
+result = Rot13Bruteforce.rot13_bruteforce('abcd')
 print_rot13_results(result)
 ```
 # ETC
