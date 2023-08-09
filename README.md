@@ -15,7 +15,7 @@ print_rot13_results(str)
 import Rot13Bruteforce
 
 result = Rot13Bruteforce.rot13_bruteforce('abcd')
-print_rot13_results(result)
+Rot13Bruteforce.print_rot13_results(result)
 ```
 # ETC
 > For improvements, please call Full Requests
