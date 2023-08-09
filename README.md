@@ -3,7 +3,7 @@ Python pip makes it easy to run rot13_bruteforce
 > PYPI : https://pypi.org/project/rot13_bruteforce/
 # PiP install
 ```
-pip install rot13_bruteforce
+pip install rot13-bruteforce
 ```
 # Key Features
 ```python
