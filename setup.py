@@ -1,12 +1,12 @@
 import setuptools
 
 setuptools.setup(
-    name='rot13-bruteforce',
-    version='1.0.0',
-    description='',
+    name='Rot13Bruteforce',
+    version='1.0.1',
+    description='Python pip makes it easy to run rot13_bruteforce',
     author='Gaeduck',
     author_email='gms8757@naver.com',
-    url='https://github.com/Gaeduck-0908/rot13-bruteforce',
+    url='https://github.com/Gaeduck-0908/Rot13Bruteforce',
     packages= setuptools.find_packages(),
     keywords=['Python','rot13','bruteforce'],
     python_requires='>=3',
